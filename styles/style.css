@@ -11,3 +11,8 @@
 .fill-bg {
     background-color: #F4FAFD;
 }
+
+.img-working {
+    height: auto;
+    width: 100%
+}
